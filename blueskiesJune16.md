@@ -8,6 +8,6 @@ Kiwifruit is round, green or yellow and sometimes with splashes of red or orange
 ## Aim of the research
 We are not sure what the aim is yet, but we will figure it out soon
 ## Proposed research
-Pending
+It will involve kiwifruit and monkeys
 ## Reference
 none
